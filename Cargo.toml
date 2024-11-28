@@ -1,0 +1,8 @@
+[package]
+name = "system_monitor"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sysinfo = "0.22.0"
+walkdir = "2.3.2"
